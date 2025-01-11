@@ -1,0 +1,11 @@
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.pdb
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.pdb
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.pdb
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.dll
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.pdb

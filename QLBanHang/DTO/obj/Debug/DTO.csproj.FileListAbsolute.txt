@@ -1,0 +1,6 @@
+D:\SOF205_ASS\QLBanHang\DTO\bin\Debug\DTO.dll
+D:\SOF205_ASS\QLBanHang\DTO\bin\Debug\DTO.pdb
+D:\SOF205_ASS\QLBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SOF205_ASS\QLBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SOF205_ASS\QLBanHang\DTO\obj\Debug\DTO.dll
+D:\SOF205_ASS\QLBanHang\DTO\obj\Debug\DTO.pdb
